@@ -1,4 +1,5 @@
 # 🏠 House Market Analysis – Power BI Dashboard
+Dashboard Link - https://app.powerbi.com/groups/me/reports/8d3826ee-6260-4b33-916a-e8db11966aa7/c7e9a5a305858d9ce1b5?experience=power-bi 
 
 ## 📌 Problem Statement
 
@@ -17,7 +18,6 @@ The objective of this project is to:
 ## 📊 Data Source
 
 * **Google BigQuery**
-* Dataset contains transactional-level housing data with property details, location information, and macroeconomic indicators.
 
 ### Key Data Fields
 
@@ -91,25 +91,11 @@ The objective of this project is to:
 
 
 
-## 🎛 Interactive Features
-
-* Dynamic slicers for:
-
-  * Area
-  * City
-  * Region
-  * Sales Type
-* Cross-filtering across visuals for deeper exploration
-* Drill-down enabled for time-based analysis
-
-
-
 ## 🛠 Tools & Technologies Used
 
 * **Power BI** – Data modeling, DAX, and interactive dashboard creation
 * **Google BigQuery** – Cloud-based data source
 * **SQL** – Data extraction and preparation
-* **Data Modeling** – Star schema with time and location dimensions
 
 
 ## 📈 Key Insights
