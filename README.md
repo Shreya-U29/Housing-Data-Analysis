@@ -52,7 +52,7 @@ The objective of this project is to:
 
   * Compared auction, regular sale, family sale, and other sale types
  
-    ![App Screenshot](Dashboard Images/House Market Overview.png)
+    ![App Screenshot](Dashboard/house_market_analysis.png)
 
 
 
