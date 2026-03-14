@@ -68,7 +68,7 @@ The objective of this project is to:
 
   * Evaluated pricing effectiveness across transaction types
     
-    ![App Screenshot](Dashboard/sales_performace.png)
+    ![App Screenshot](Dashboard/sales_performance.png)
 
     
 
