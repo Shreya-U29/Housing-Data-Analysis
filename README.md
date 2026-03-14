@@ -51,6 +51,8 @@ The objective of this project is to:
 * **YoY Sales Growth by Sales Type**
 
   * Compared auction, regular sale, family sale, and other sale types
+ 
+    ![App Screenshot](Dashboard Images/House Market Overview.png)
 
 
 
