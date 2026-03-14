@@ -67,8 +67,10 @@ The objective of this project is to:
 * **Offer-to-SQM Price Ratio by Sales Type**
 
   * Evaluated pricing effectiveness across transaction types
+    
+    ![App Screenshot](Dashboard/sales_performace.png)
 
-
+    
 
 ### 3️⃣ Property-Type Insights
 
@@ -81,6 +83,8 @@ The objective of this project is to:
 * **Macroeconomic Indicators by House Type**
 
   * Analyzed inflation, interest rate, and mortgage bond yield patterns
+    
+    ![App Screenshot](Dashboard/house_type_analysis.png)
 
 
 
